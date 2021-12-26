@@ -1,5 +1,5 @@
 # Task Reminder app based on Flask
-Truong Nguyen
+Truong Nguyen -
 Innopolis University
 
 A toy project to remind users about their tasks
