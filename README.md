@@ -1,8 +1,8 @@
 # Task Reminder app based on Flask
-Truong Nguyen -
+Truong Nguyen <br/>
 Innopolis University
 
-A toy project to remind users about their tasks
+A toy project to remind users about their tasks <br/>
 Deployed on https://firstflaskappever.herokuapp.com/
 
 Simple functionality:
