@@ -16,3 +16,4 @@ Simple functionality:
 
 Feel free to clone and modify this project.
 
+I do not own the idea of creating this project, this is the product of an online course on youtube
